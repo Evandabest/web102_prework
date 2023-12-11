@@ -27,7 +27,9 @@ Here's a walkthrough of implemented features:
 <img src='./assets/web102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
+
+
 <!--[Kap](https://getkap.co/) for macOS-->
 
 ## Notes
